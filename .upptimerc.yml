@@ -11,11 +11,16 @@ sites:
     url: https://api.e-aimodotes.gr/metrics/uptime/
   - name: e-Αιμοδότες (Κράτηση Ραντεβού για Αιμοδοσία)
     url: https://bookings.e-aimodotes.gr/
-  - name: e-Αιμοδότες Αστική Μη Κερδοσκοπική Εταιρεία
+  - name: e-Αιμοδότες ΑμΚΕ
     url: https://aimodotes.org/
-  - name: Μητρώο εθελοντών
+  - name: Μητρώο εθελοντών (ΑμΚΕ)
     url: https://ethelontes.aimodotes.org/
-    
+  - name: Διακομιστής Ίρις (Δημοκρίτειο Πανεπιστήμιο Θράκης)
+    url: $SERVER_IRIS
+  - name: Διακομιστής Ερμής (Εθνικό Δίκτυο Υποδομών Τεχνολογίας και Έρευνας)
+    url: $SERVER_ERMIS
+  - name: Διακομιστής Αρετή (Cloudflare)
+    url: $SERVER_ARETI
 
 status-website:
   cname: status.aimodotes.org
