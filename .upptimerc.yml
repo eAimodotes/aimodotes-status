@@ -19,10 +19,14 @@ sites:
     url: $URL_STATISTIKA
   - name: Διακομιστής Ίρις (Δημοκρίτειο Πανεπιστήμιο Θράκης)
     url: $SERVER_IRIS
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gr.png
   - name: Διακομιστής Ερμής (Εθνικό Δίκτυο Υποδομών Τεχνολογίας και Έρευνας)
     url: $SERVER_ERMIS
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gr.png
   - name: Διακομιστής Αρετή (Cloudflare)
     url: $SERVER_ARETI
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+
 
 status-website:
   cname: status.aimodotes.org
