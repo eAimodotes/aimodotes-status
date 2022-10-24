@@ -6,7 +6,7 @@ sites:
   - name: e-Αιμοδότες
     url: https://e-aimodotes.gr/
   - name: e-Αιμοδότες για νοσοκομεία
-    url: https://myhospital.e-aimodotes.gr/
+    url: $URL_BACKEND
   - name: e-Αιμοδότες API (Mobile Apps)
     url: https://api.e-aimodotes.gr/metrics/uptime/
   - name: e-Αιμοδότες (Κράτηση Ραντεβού για Αιμοδοσία)
@@ -14,7 +14,7 @@ sites:
   - name: e-Αιμοδότες ΑμΚΕ
     url: https://aimodotes.org/
   - name: Μητρώο εθελοντών (ΑμΚΕ)
-    url: https://ethelontes.aimodotes.org/
+    url: $URL_VOLUNTEERS
   - name: Διακομιστής Ίρις (Δημοκρίτειο Πανεπιστήμιο Θράκης)
     url: $SERVER_IRIS
   - name: Διακομιστής Ερμής (Εθνικό Δίκτυο Υποδομών Τεχνολογίας και Έρευνας)
