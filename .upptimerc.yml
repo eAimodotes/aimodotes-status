@@ -7,6 +7,8 @@ sites:
     url: https://e-aimodotes.gr/
   - name: e-Αιμοδότες για νοσοκομεία
     url: https://myhospital.e-aimodotes.gr/
+  - name: e-Αιμοδότες API
+    url: https://api.e-aimodotes.gr/metrics/uptime/
   - name: e-Αιμοδότες Αστική Μη Κερδοσκοπική Εταιρεία
     url: https://aimodotes.org/
   - name: Μητρώο εθελοντών
