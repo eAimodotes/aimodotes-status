@@ -15,6 +15,8 @@ sites:
     url: https://aimodotes.org/
   - name: Μητρώο εθελοντών (ΑμΚΕ)
     url: $URL_VOLUNTEERS
+  - name: Στατιστικά εφαρμογών
+    url: $URL_STATISTIKA
   - name: Διακομιστής Ίρις (Δημοκρίτειο Πανεπιστήμιο Θράκης)
     url: $SERVER_IRIS
   - name: Διακομιστής Ερμής (Εθνικό Δίκτυο Υποδομών Τεχνολογίας και Έρευνας)
