@@ -7,8 +7,10 @@ sites:
     url: https://e-aimodotes.gr/
   - name: e-Αιμοδότες για νοσοκομεία
     url: https://myhospital.e-aimodotes.gr/
-  - name: e-Αιμοδότες API
+  - name: e-Αιμοδότες API (Mobile Apps)
     url: https://api.e-aimodotes.gr/metrics/uptime/
+  - name: e-Αιμοδότες (Κράτηση Ραντεβού για Αιμοδοσία)
+    url: https://bookings.e-aimodotes.gr/
   - name: e-Αιμοδότες Αστική Μη Κερδοσκοπική Εταιρεία
     url: https://aimodotes.org/
   - name: Μητρώο εθελοντών
@@ -16,11 +18,10 @@ sites:
     
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.aimodotes.org
  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   logoUrl: https://e-aimodotes.gr/assets/img/transpar.png
+  favicon: https://e-aimodotes.gr/assets/img/transpar.png
   name: Κατάσταση Συστημάτων
   introMessage: "Σε αυτή τη σελίδα μπορείς να παρακολουθείς την κατάσταση των συστημάτων του e-Αιμοδότες. Τα στατιστικά για τα συστήματα παρέχονται για ενημερωτικούς σκοπούς."
   navbar:
