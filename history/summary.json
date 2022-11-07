@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aimodotes.org.ico",
     "slug": "e-aimodotes-am-ke",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1161,
     "timeDay": 803,
     "timeWeek": 1125,
     "timeMonth": 1161,
     "timeYear": 1161,
     "dailyMinutesDown": {
-      "2022-11-07": 0
+      "2022-11-07": 31
     }
   },
   {
@@ -96,18 +96,20 @@
     "url": "$URL_VOLUNTEERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mitroo-ethelonton-am-ke",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 574,
-    "timeWeek": 613,
-    "timeMonth": 716,
-    "timeYear": 716,
-    "dailyMinutesDown": {}
+    "time": 849,
+    "timeDay": 2049,
+    "timeWeek": 977,
+    "timeMonth": 849,
+    "timeYear": 849,
+    "dailyMinutesDown": {
+      "2022-11-07": 1
+    }
   },
   {
     "name": "Στατιστικά εφαρμογών",
@@ -115,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "statistika-efarmogon",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 860,
     "timeDay": 1356,
     "timeWeek": 886,
     "timeMonth": 860,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2022-11-07": 0
+      "2022-11-07": 31
     }
   },
   {
@@ -170,17 +172,19 @@
     "url": "$SERVER_ARETI",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gr.png",
     "slug": "diakomistis-areti-cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 540,
-    "timeWeek": 602,
-    "timeMonth": 724,
-    "timeYear": 724,
-    "dailyMinutesDown": {}
+    "time": 816,
+    "timeDay": 1598,
+    "timeWeek": 859,
+    "timeMonth": 816,
+    "timeYear": 816,
+    "dailyMinutesDown": {
+      "2022-11-07": 0
+    }
   }
 ]
