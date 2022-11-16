@@ -76,10 +76,10 @@
     "url": "https://aimodotes.org/",
     "icon": "https://icons.duckduckgo.com/ip3/aimodotes.org.ico",
     "slug": "e-aimodotes-am-ke",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1250,
@@ -87,7 +87,9 @@
     "timeWeek": 1143,
     "timeMonth": 1250,
     "timeYear": 1250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-16": 1
+    }
   },
   {
     "name": "Μητρώο εθελοντών (ΑμΚΕ)",
@@ -166,19 +168,19 @@
     "url": "$SERVER_ARETI",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gr.png",
     "slug": "diakomistis-areti-cloudflare",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
-    "time": 762,
-    "timeDay": 572,
-    "timeWeek": 631,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 777,
+    "timeDay": 907,
+    "timeWeek": 708,
+    "timeMonth": 777,
+    "timeYear": 777,
     "dailyMinutesDown": {
-      "2022-11-16": 0,
+      "2022-11-16": 7,
       "2022-11-07": 258
     }
   }
