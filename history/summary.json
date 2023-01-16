@@ -4,19 +4,19 @@
     "url": "https://e-aimodotes.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/e-aimodotes.gr.ico",
     "slug": "e-aimodotes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4222,
-    "timeDay": 5323,
-    "timeWeek": 4250,
-    "timeMonth": 3933,
-    "timeYear": 4222,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4238,
+    "timeDay": 5553,
+    "timeWeek": 4442,
+    "timeMonth": 3991,
+    "timeYear": 4238,
     "dailyMinutesDown": {
-      "2023-01-16": 1
+      "2023-01-16": 8
     }
   },
   {
