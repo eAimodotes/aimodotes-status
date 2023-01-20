@@ -22,10 +22,10 @@
     "url": "$URL_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-aimodotes-gia-nosokomeia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3839,
@@ -33,7 +33,9 @@
     "timeWeek": 3207,
     "timeMonth": 3837,
     "timeYear": 3839,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-20": 1
+    }
   },
   {
     "name": "e-Αιμοδότες API (Mobile Apps)",
@@ -130,18 +132,20 @@
     "url": "$SERVER_IRIS",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gr.png",
     "slug": "diakomistis-iris-dimokriteio-panepistimio-t-hrakis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3935,
-    "timeDay": 1175,
-    "timeWeek": 4439,
-    "timeMonth": 3752,
-    "timeYear": 3935,
-    "dailyMinutesDown": {}
+    "time": 3964,
+    "timeDay": 3942,
+    "timeWeek": 4722,
+    "timeMonth": 3844,
+    "timeYear": 3964,
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
   },
   {
     "name": "Διακομιστής Ερμής (Εθνικό Δίκτυο Υποδομών Τεχνολογίας και Έρευνας)",
