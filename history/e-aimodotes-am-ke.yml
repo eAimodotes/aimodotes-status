@@ -1,7 +1,7 @@
 url: https://aimodotes.org/
-status: up
-code: 200
-responseTime: 1474
-lastUpdated: 2023-03-30T16:58:25.064Z
+status: down
+code: 503
+responseTime: 375
+lastUpdated: 2023-03-30T17:08:18.265Z
 startTime: Mon Oct 24 2022 09:27:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
