@@ -1,7 +1,7 @@
 url: $SERVER_ARETI
-status: down
-code: 523
-responseTime: 4090
-lastUpdated: 2023-09-17T05:05:54.801Z
+status: up
+code: 200
+responseTime: 2946
+lastUpdated: 2023-09-17T12:36:58.084Z
 startTime: 2022-10-24T09:28:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
