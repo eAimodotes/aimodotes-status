@@ -1,7 +1,7 @@
 url: $SERVER_ERMIS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-24T17:26:46.664Z
+status: up
+code: 200
+responseTime: 744
+lastUpdated: 2023-09-24T17:50:55.829Z
 startTime: 2022-10-24T09:28:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
