@@ -1,7 +1,7 @@
 url: https://api.e-aimodotes.gr/metrics/uptime/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-27T18:32:15.658Z
+status: up
+code: 200
+responseTime: 580
+lastUpdated: 2023-09-27T18:39:45.261Z
 startTime: 2022-10-24T08:56:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
