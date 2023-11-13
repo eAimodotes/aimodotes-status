@@ -1,7 +1,7 @@
 url: $SERVER_IRIS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-13T19:50:08.560Z
+status: up
+code: 200
+responseTime: 901
+lastUpdated: 2023-11-13T20:06:18.317Z
 startTime: 2022-10-24T09:27:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
