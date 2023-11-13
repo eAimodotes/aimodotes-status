@@ -1,7 +1,7 @@
 url: https://bookings.e-aimodotes.gr/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-13T19:49:46.340Z
+status: up
+code: 200
+responseTime: 1082
+lastUpdated: 2023-11-13T20:06:11.802Z
 startTime: 2022-10-24T08:56:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
