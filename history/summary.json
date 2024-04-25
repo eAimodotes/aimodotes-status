@@ -145,18 +145,19 @@
     "url": "$URL_STATISTIKA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "statistika-efarmogon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1351,
+    "time": 1352,
     "timeDay": 4712,
     "timeWeek": 3831,
     "timeMonth": 4064,
     "timeYear": 1526,
     "dailyMinutesDown": {
+      "2024-04-25": 2,
       "2023-09-17": 452,
       "2023-08-03": 90
     }
