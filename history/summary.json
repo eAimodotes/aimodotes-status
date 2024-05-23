@@ -5,23 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/e-aimodotes.gr.ico",
     "slug": "e-aimodotes",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1838,
-    "timeDay": 1278,
-    "timeWeek": 1150,
-    "timeMonth": 1052,
-    "timeYear": 1205,
+    "time": 1831,
+    "timeDay": 1433,
+    "timeWeek": 1180,
+    "timeMonth": 1066,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2024-04-08": 16,
       "2023-11-13": 17,
       "2023-09-27": 16,
       "2023-09-24": 610,
-      "2023-07-28": 368,
-      "2023-05-24": 519
+      "2023-07-28": 368
     }
   },
   {
@@ -35,17 +34,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 1681,
-    "timeDay": 1074,
-    "timeWeek": 909,
-    "timeMonth": 867,
-    "timeYear": 1147,
+    "time": 1679,
+    "timeDay": 5078,
+    "timeWeek": 1516,
+    "timeMonth": 1004,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2024-04-08": 15,
       "2023-11-13": 17,
       "2023-09-24": 609,
-      "2023-07-28": 378,
-      "2023-05-24": 479
+      "2023-07-28": 378
     }
   },
   {
@@ -54,21 +52,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.e-aimodotes.gr.ico",
     "slug": "e-aimodotes-api-mobile-apps",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 1556,
-    "timeDay": 868,
-    "timeWeek": 744,
-    "timeMonth": 748,
-    "timeYear": 976,
+    "time": 1548,
+    "timeDay": 869,
+    "timeWeek": 776,
+    "timeMonth": 742,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2023-11-13": 17,
       "2023-09-24": 609,
-      "2023-07-28": 369,
-      "2023-05-24": 479
+      "2023-07-28": 369
     }
   },
   {
@@ -77,21 +74,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/bookings.e-aimodotes.gr.ico",
     "slug": "e-aimodotes-kratisi-rantevoy-gia-aimodosia",
     "status": "up",
-    "uptime": "98.02%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 1640,
-    "timeDay": 1643,
-    "timeWeek": 1246,
-    "timeMonth": 1182,
-    "timeYear": 1350,
+    "time": 1635,
+    "timeDay": 1655,
+    "timeWeek": 1324,
+    "timeMonth": 1198,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2023-11-13": 16,
       "2023-09-24": 608,
-      "2023-07-28": 782,
-      "2023-05-24": 570
+      "2023-07-28": 782
     }
   },
   {
@@ -105,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1793,
-    "timeDay": 1879,
-    "timeWeek": 1915,
+    "time": 1794,
+    "timeDay": 2001,
+    "timeWeek": 1774,
     "timeMonth": 1963,
-    "timeYear": 1636,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2023-09-17": 453,
       "2023-08-03": 91
@@ -126,10 +122,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 768,
-    "timeDay": 797,
-    "timeWeek": 663,
-    "timeMonth": 636,
+    "time": 769,
+    "timeDay": 814,
+    "timeWeek": 689,
+    "timeMonth": 643,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2023-09-17": 452,
@@ -147,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1526,
-    "timeDay": 3698,
-    "timeWeek": 3495,
-    "timeMonth": 3835,
-    "timeYear": 1750,
+    "time": 1533,
+    "timeDay": 4037,
+    "timeWeek": 3573,
+    "timeMonth": 3836,
+    "timeYear": 1759,
     "dailyMinutesDown": {
       "2023-09-17": 452,
       "2023-08-03": 90
@@ -168,16 +164,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 1454,
-    "timeDay": 1163,
-    "timeWeek": 1079,
-    "timeMonth": 959,
-    "timeYear": 1090,
+    "time": 1446,
+    "timeDay": 1215,
+    "timeWeek": 1091,
+    "timeMonth": 969,
+    "timeYear": 1091,
     "dailyMinutesDown": {
       "2023-11-13": 16,
       "2023-09-24": 608,
-      "2023-07-28": 782,
-      "2023-05-24": 570
+      "2023-07-28": 782
     }
   },
   {
@@ -191,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1781,
-    "timeDay": 1137,
-    "timeWeek": 1025,
-    "timeMonth": 1056,
-    "timeYear": 1179,
+    "time": 1779,
+    "timeDay": 1180,
+    "timeWeek": 1047,
+    "timeMonth": 1028,
+    "timeYear": 1180,
     "dailyMinutesDown": {}
   },
   {
@@ -210,10 +205,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 788,
-    "timeDay": 789,
-    "timeWeek": 673,
-    "timeMonth": 619,
-    "timeYear": 744,
+    "timeDay": 753,
+    "timeWeek": 697,
+    "timeMonth": 624,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2023-09-17": 451,
       "2023-08-03": 90
